@@ -5,6 +5,8 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
 /**
+ * 该设备需要先处于监听状态（先启动）
+ *
  * @author HuaDong
  * @date 2020/2/19 17:03
  */
